@@ -38,14 +38,6 @@ Interactive Dashboard: Includes Sub Category Filter, Region, Customer Name, and 
 
 📌 View the Tableau Dashboard Here (Add your Tableau Public link here)
 
-🗂️ Repository Structure
-
-📂 Tableau-Sales-Analysis
-│-- 📁 Data (Original and cleaned datasets)
-│-- 📁 Dashboards (Tableau workbook files)
-│-- 📁 Reports (Insights and documentation)
-│-- README.md (Project documentation)
-
 🛠 Tools Used
 
 Tableau - Data Visualization
@@ -53,12 +45,6 @@ Tableau - Data Visualization
 Excel/Python - Data Cleaning & Preparation
 
 SQL - Querying and filtering data
-
-🚀 How to Use
-
-Download the repository or clone it using:
-
-git clone https://github.com/yourusername/Tableau-Sales-Analysis.git
 
 Open the Tableau dashboard file (.twbx) in Tableau Desktop.
 
